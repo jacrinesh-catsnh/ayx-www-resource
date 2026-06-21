@@ -1,2 +1,14 @@
 # ayx-www-resource
-HTML page archive and documentation
+
+自动发布文件目录
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
